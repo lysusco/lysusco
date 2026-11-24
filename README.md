@@ -36,4 +36,7 @@ Puedes ver mis proyectos destacados en mi portafolio web: [Mi portafolio](https:
 
 ## Proyectos destacados
 
-- [MiniMarketElAhorro](https://github.com/lysusco/MiniMarketElAhorro)
+- [MiniMarketElAhorro](https://github.com/lysusco/MiniMarketElAhorro) — Sistema web para la gestión de un minimercado (Laravel, Blade, Tailwind, MySQL).
+- [Sistema de Inventario y Proveedores](https://github.com/lysusco/sistema-inventario-springboot) — Backend REST para inventario y proveedores (Java, Spring Boot, PostgreSQL).
+- [Dashboard de Ventas](https://github.com/lysusco/dashboard-ventas-nodejs) — Panel de indicadores de ventas (Node.js, Express, MySQL, Chart.js).
+- [Sistema de Solicitudes y Órdenes de Compra](https://github.com/lysusco/solicitudes-compras-laravel) — Módulo ERP de flujo de compras (PHP, Laravel, Blade, Tailwind).
